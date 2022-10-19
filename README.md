@@ -22,3 +22,4 @@
 - 🍇 Estudando para ser Desenvolvedora Back-End
 - 🍇 Amo músicas e meu anime preferido é Naruto
 
+![snake gif](https://github.com/isgabrielast/isgabrielast/blob/output/github-contribution-grid-snake.svg)
