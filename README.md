@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-da-konan-3.gif" />
+</p>
+<hr>
 
-<!--
-**isgabrielast/isgabrielast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://twitter.com/28y2029">
+    <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/gabriela-xavier-santos-8596891b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=isgabrielast&style=for-the-badge"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+👋 Olá sou a Gabriela, atualmente estudo Java e SQL.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **⚡ Sobre mim:**
+- 🍇 Tenho 23 anos, moro em São Paulo
+- 🍇 Estudando para ser Desenvolvedora Back-End
+- 🍇 Amo músicas e meu anime preferido é Naruto
+
