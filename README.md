@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">
-    <a href="linkedin.com/in/gabriela-xavier-394112261">
+    <a href="https://www.linkedin.com/in/gabriela-xavier-394112261/"/>
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=isgabrielast&style=for-the-badge"/>
@@ -19,3 +19,4 @@
 - 🍇 Estudando para ser Desenvolvedora Back-End
 - 🍇 Amo músicas e meu anime preferido é Naruto
 
+![snake gif](https://github.com/isgabrielast/isgabrielast/blob/output/github-contribution-grid-snake.svg)
